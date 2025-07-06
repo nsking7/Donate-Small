@@ -13,4 +13,4 @@ People will be able to buy the resulting NFT item using Avax Coin. There are man
 To support this project, feel free to donate $AVAX to: 0x05b6a979c46f27327323b849cde5c530f4b059f6
 
 First draft of logo (made with ChatGPT):
-![the forge logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/images/avalanche9000.png)
+![the forge logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/images/avalanche9000.png)![Avalanche9000](assets/images/avalanche9000.png)
