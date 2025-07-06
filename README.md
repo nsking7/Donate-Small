@@ -12,3 +12,4 @@ People will be able to buy the resulting NFT item using Avax Coin. There are man
 
 To support this project, feel free to donate $AVAX to: 0x05b6a979c46f27327323b849cde5c530f4b059f6
 
+https://raw.githubusercontent.com/username/repo-name/branch-name/assets/images/example.png
